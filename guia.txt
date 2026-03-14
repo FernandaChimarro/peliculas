@@ -1,0 +1,7 @@
+npm install lucide-react react-router-dom sonner
+# Instala Tailwind y sus dependencias
+npm install -D tailwindcss postcss autoprefixer
+
+# Genera los archivos de configuración (tailwind.config.js y postcss.config.js)
+npx tailwindcss init -p
+npm run dev
